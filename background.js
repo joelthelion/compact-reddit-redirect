@@ -1,8 +1,8 @@
-const oldReddit = "https://old.reddit.com"
+const compactReddit = "https://i.reddit.com"
 
 chrome.webRequest.onBeforeRequest.addListener(
   function(details) {
-    return {redirectUrl: oldReddit + details.url.match(/^https?:\/\/[^\/]+([\S\s]*)/)[1]}
+    return {redirectUrl: compactReddit + details.url.match(/^https?:\/\/[^\/]+([\S\s]*)/)[1]}
   },
   {
     urls: [
