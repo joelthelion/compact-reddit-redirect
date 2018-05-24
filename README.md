@@ -4,6 +4,8 @@ Dislike Reddit's mobile site? Compact Reddit Redirect will ensure that you alway
 
 Will force all reddit.com usage to i.reddit.com. Will work when navigating to the site, opening links, etc. Works regardless of whether you are logged in or not, and in incognito mode.
 
+Extension for Firefox: https://addons.mozilla.org/en-US/firefox/addon/compact-reddit-redirect/
+
 ## License
 
 Code copyright Joël Schaerer. Code released under [the MIT license](LICENSE.txt).
