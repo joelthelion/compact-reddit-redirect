@@ -9,4 +9,4 @@ Extension for Firefox: https://addons.mozilla.org/en-US/firefox/addon/compact-re
 ## License
 
 Code copyright Joël Schaerer. Code released under [the MIT license](LICENSE.txt).
-Based on old reddit redirect by Tom Watson.
+Based on old reddit redirect by Tom Watson (https://github.com/tom-james-watson/old-reddit-redirect)
